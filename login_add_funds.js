@@ -2,7 +2,7 @@ module.exports =
 {
   'Adding funds from existing card': function(test)
    {
-    var url = '';
+    var url = 'https://rmpay.routematch.com';
     var name = 'GLORIA JANDORF';
     var balance_after;
     var paymemt = 5.12;
